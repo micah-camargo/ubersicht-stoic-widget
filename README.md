@@ -58,7 +58,9 @@ mv quote-widget ~/Library/Application\ Support/Übersicht/widgets/
 
 To customize the appearance and behavior of the widget directly modify the index file in the style variable.
 
+## Author
+Micah Camargo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
