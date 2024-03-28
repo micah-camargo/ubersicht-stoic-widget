@@ -9,6 +9,8 @@ This project is a sleek and minimalist quote widget designed to display hundreds
 - **Responsive Layout**: Designed to look great on various screen sizes, ensuring readability and beauty across different devices.
 - **Customizable Appearance**: Offers customization options for fonts, colors, and refresh rates to fit personal preferences and desktop themes.
 
+![Stoic Widget Screenshot](https://github.com/micah-camargo/ubersicht-stoic-widget/blob/main/msq.widget.arrays/Light%20Text.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
