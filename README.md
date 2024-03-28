@@ -1,6 +1,6 @@
-# Übersicht Stoic Quote Widget
+# Übersicht MacOS Stoic Quote Widget
 
-This project is a sleek and minimalist quote widget designed to display hundreds of inspirational quotes along with their authors on your desktop. It combines modern design aesthetics with the timeless wisdom of notable figures.
+This project is a sleek and minimalist quote widget designed to display hundreds of inspirational quotes along with their authors on your MacOS desktop. It combines modern design aesthetics with the timeless wisdom of notable figures.
 
 ## Features
 
