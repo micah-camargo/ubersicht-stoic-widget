@@ -2,6 +2,8 @@
 
 This project is a sleek and minimalist quote widget designed to display hundreds of inspirational quotes along with their authors on your MacOS desktop. It combines modern design aesthetics with the timeless wisdom of notable figures.
 
+![Stoic Widget Screenshot](https://github.com/micah-camargo/ubersicht-stoic-widget/blob/main/msq.widget.arrays/Light%20Text.png)
+
 ## Features
 
 - **Elegant Design**: Utilizes a combination of serif and sans-serif fonts to present quotes in an aesthetically pleasing manner.
@@ -9,7 +11,7 @@ This project is a sleek and minimalist quote widget designed to display hundreds
 - **Responsive Layout**: Designed to look great on various screen sizes, ensuring readability and beauty across different devices.
 - **Customizable Appearance**: Offers customization options for fonts, colors, and refresh rates to fit personal preferences and desktop themes.
 
-![Stoic Widget Screenshot](https://github.com/micah-camargo/ubersicht-stoic-widget/blob/main/msq.widget.arrays/Light%20Text.png)
+
 
 ## Getting Started
 
